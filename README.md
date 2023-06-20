@@ -24,7 +24,7 @@ Team. 구구빵빵
 
 ## How to Build
 1) Setup environment for flask
-   '''
+   '''bash
    pip install flask
    '''
    
