@@ -14,6 +14,7 @@ Team. 구구빵빵
 2023.04.01 - 2023.06.11
 
 ## Schedule
+### Presentation Schedule
 |날짜|일정|
 |:-----:|:-----:|
 |2023.04.04 (Tue) | Proposal Submission |
@@ -22,10 +23,14 @@ Team. 구구빵빵
 |2023.06.13 (Tue) | Final Presentation |
 |2023.06.15 (Thu) | Demo Day |
 
-
+### WBS
 
 ## How to Build
 ### Data
+We’ve used the [‘한국어 음성’](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=123) data from AI hub.
+
+Actually this dataset was created by the kospeech team, the toolkit we used. They build this dataset for the purpose of training the communicative speech recognition AI technology. Kospeech supports the preprocessing rules for this dataset, and this helps to save time in preprocessing session.
+
 ### SetUp
 1) Setup environment for flask
    
@@ -63,4 +68,4 @@ Team. 구구빵빵
    ```
 ---
 ## Contact
-If you have any questions, please send an email to this [address](pureb_9924@naver.com)
+If you have any questions, please send an email to **pureb_9924@naver.com**
