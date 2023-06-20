@@ -1,7 +1,7 @@
 # PitchAndPronounceTuner
 ## 🎙️Introduction
 
-## Demo Video
+## 📽️Demo Video
 
 ## 🧑🏻‍💻People
 Team. 구구빵빵
@@ -10,10 +10,10 @@ Team. 구구빵빵
 - [이동준](https://github.com/dongjun0207) | Data Preprocessing, Pronounciation
 - [전민지](https://github.com/minji9924) | Team Leader, Web Front-end, Back-end
 
-## Duration
+## 🗓️Schedule
+### Duration
 2023.04.01 - 2023.06.11
 
-## Schedule
 ### Presentation Schedule
 |날짜|일정|
 |:-----:|:-----:|
@@ -25,7 +25,7 @@ Team. 구구빵빵
 
 ### WBS
 
-## How to Build
+## 🔥How to Build
 ### Data
 We’ve used the [‘한국어 음성’](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=123) data from AI hub.
 
@@ -67,5 +67,5 @@ Actually this dataset was created by the kospeech team, the toolkit we used. The
    python app.py
    ```
 ---
-## Contact
+## 📬Contact
 If you have any questions, please send an email to **pureb_9924@naver.com**
