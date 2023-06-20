@@ -22,7 +22,11 @@ Team. 구구빵빵
 |2023.06.13 (Tue) | Final Presentation |
 |2023.06.15 (Thu) | Demo Day |
 
+
+
 ## How to Build
+### Data
+### SetUp
 1) Setup environment for flask
    
    ```bash
@@ -54,11 +58,9 @@ Team. 구구빵빵
    - Change the song **name(song)** and audio **data file name(data_name)** below the directory path in the setup phase.
 
 6) Run the project folder with local connection
-  ```bash
+   ```bash
    python app.py
    ```
-
-### Set Up
-
-### Data
-
+---
+## Contact
+If you have any questions, please send an email to this [address](pureb_9924@naver.com)
