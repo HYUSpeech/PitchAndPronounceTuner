@@ -27,24 +27,30 @@ Team. 구구빵빵
    
    ```bash
    pip install flask
-   ``` 
+   ```
+   
+   if you use conda environment,
+   
+   ```bash
+   conda install -c anaconda flask
+   ```
 
-2) Download libraries used in project using ‘requirements.txt’ file in the project folder
+3) Download libraries used in project using ‘requirements.txt’ file in the project folder
    
 
-3) Before running project, we need answer label for pitch and pronunciation 
+4) Before running project, we need answer label for pitch and pronunciation 
 
-   First, prepare the answer label of pitch recognition data in ‘pitch_data’ folder. 
+   First, prepare the answer label of pitch recognition data in ‘**pitch_data**’ folder. 
 
    And then for speech recognition write the answer label at [app.py](http://app.py) 147th line, origin text variable.
 
-4) After the answer label is prepared, we need to setup the information of the songs.
+5) After the answer label is prepared, we need to setup the information of the songs.
 
    Change the directory path of data and pitch. These path parameter is at setup phase of [app.py](http://app.py)
 
    Change the song name(song) and audio data file name(data_name) below the directory path in the setup phase.
 
-5) Run the project folder with local connection
+6) Run the project folder with local connection
 
 ### Set Up
 
