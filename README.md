@@ -29,6 +29,7 @@ Initial WBS
 <img width="1002" alt="image" src="https://github.com/HYUSpeech/PitchAndPronounceTuner/assets/81553569/54fed1de-ed5f-4ab4-bc9e-e0935f763c6f">
 
 Final WBS
+<img width="933" alt="wbs" src="https://github.com/HYUSpeech/PitchAndPronounceTuner/assets/58546758/b983416d-c95c-45f3-b2e3-64ddb3da05e0">
 
 
 ## 🔥How to Build
