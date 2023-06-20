@@ -24,7 +24,9 @@ Team. 구구빵빵
 
 ## How to Build
 1) Setup environment for flask
-   'pip install flask'
+   '''
+   pip install flask
+   '''
    
 
 Download libraries used in project using ‘requirements.txt’ file in the project folder
