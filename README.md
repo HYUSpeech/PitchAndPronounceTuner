@@ -16,13 +16,32 @@ Team. 구구빵빵
 ## Schedule
 |날짜|일정|
 |:-----:|:-----:|
-|2023.04.04 (Tue) | 제안서 제출 |
-|2023.04.11 (Tue) | 제안서 발표 |
-|2023.05.11 (Thu) | 중간 발표 |
-|2023.06.13 (Tue) | 최종 발표 |
+|2023.04.04 (Tue) | Proposal Submission |
+|2023.04.11 (Tue) | Proposal Presentation |
+|2023.05.11 (Thu) | Interim Presentation |
+|2023.06.13 (Tue) | Final Presentation |
 |2023.06.15 (Thu) | Demo Day |
 
 ## How to Build
+1) Setup environment for flask
+   'pip install flask'
+   
+
+Download libraries used in project using ‘requirements.txt’ file in the project folder
+
+Before running project, we need answer label for pitch and pronunciation 
+
+First, prepare the answer label of pitch recognition data in ‘pitch_data’ folder. 
+
+And then for speech recognition write the answer label at [app.py](http://app.py) 147th line, origin text variable.
+
+After the answer label is prepared, we need to setup the information of the songs.
+
+Change the directory path of data and pitch. These path parameter is at setup phase of [app.py](http://app.py)
+
+Change the song name(song) and audio data file name(data_name) below the directory path in the setup phase.
+
+Run the project folder with local connection
 
 ### Set Up
 
