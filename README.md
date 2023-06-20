@@ -1,5 +1,6 @@
 # PitchAndPronounceTuner
 ## 🎙️Introduction
+Our project aims to increase accessibility to singing of hearing-impaired people using voice recognition. To achieve this goal, we made a web service with pronunciation recognition function, pitch detection function.
 
 ## 📽️Demo Video
 
@@ -24,6 +25,11 @@ Team. 구구빵빵
 |2023.06.15 (Thu) | Demo Day |
 
 ### WBS
+Initial WBS
+<img width="1002" alt="image" src="https://github.com/HYUSpeech/PitchAndPronounceTuner/assets/81553569/54fed1de-ed5f-4ab4-bc9e-e0935f763c6f">
+
+Final WBS
+
 
 ## 🔥How to Build
 ### Data
@@ -66,6 +72,6 @@ Actually this dataset was created by the kospeech team, the toolkit we used. The
    ```bash
    python app.py
    ```
----
+
 ## 📬Contact
 If you have any questions, please send an email to **pureb_9924@naver.com**
